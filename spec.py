@@ -3,7 +3,7 @@
 __author__ = 'dalem'
 
 # Many current machine specifications can be found with psutil from here https://github.com/giampaolo/psutil
-#TODO; how much memory
+# how much memory
 #TODO; what kind of processor
 #TODO; performance whetstones counter
 
